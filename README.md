@@ -41,26 +41,12 @@ size: This parameter specifies the number of items to be returned per page. In t
 
 .]
 
-Initial Data Loading
-[Describe how the initial limited portion of the dataset is loaded and displayed on the page. Explain any loading indicators or messages shown to the user.]
-
-Lazy Loading Implementation
-[Explain how additional data is loaded and displayed as the user scrolls or interacts with the page. Describe the scroll or interaction triggers and how new data is fetched and appended to the existing data.]
 
 Project Hosting and Repository
 GitHub Repository
-[Provide a link to your GitHub repository where the project code is hosted.]
+[https://github.com/tanvisharma22]
 
 Hosted Application
-[Provide a link to the hosted application, mentioning the platform used (e.g., GitHub Pages, Netlify, Vercel).]
+[]
 
-Credits
-[Mention any external libraries, resources, or tutorials used in the project.]
 
-Future Enhancements
-[List any potential future enhancements, features, or improvements that could be implemented.]
-
-License
-[Specify the project's license, if applicable.]
-
-Feel free to adapt this template to fit your project's specific requirements and add any additional sections or details as necessary. Remember to provide clear instructions and explanations for each functionality and component
