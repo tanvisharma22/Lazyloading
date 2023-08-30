@@ -47,6 +47,6 @@ GitHub Repository
 [https://github.com/tanvisharma22]
 
 Hosted Application
-[]
+[https://lazyloading-git-main-sharmatanvi2297-gmailcom.vercel.app/]
 
 
